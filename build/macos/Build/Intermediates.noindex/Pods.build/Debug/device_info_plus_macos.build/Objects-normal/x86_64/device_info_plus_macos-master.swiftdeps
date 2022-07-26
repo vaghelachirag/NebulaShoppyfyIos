@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "30773877af673ad64ab80f2e2d11ee9a24eeee8f268b0aacf6b33343a52cc033"
+build_start_time: [1658814809, 493118047]
+build_end_time: [1658814811, 146564006]
+inputs:
+  "/Users/admin/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_macos-2.2.3/macos/Classes/CwlSysctl.swift": [1658490113, 758548498]
+  ? "/Users/admin/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_macos-2.2.3/macos/Classes/DeviceInfoPlusMacosPlugin.swift"
+  : [1658490113, 759369134]
+  "/Users/admin/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/device_info_plus_macos-2.2.3/macos/Classes/SystemUUID.swift": [1658490113, 757708072]
